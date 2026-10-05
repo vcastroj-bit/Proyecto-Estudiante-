@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Victor",
+    "apellido": "Castro",
+    "email": "victorcastro@gmail..com",
+    "carnet": "VICTOR",
+    "notas": {},
+    "materias": []
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "apellido": "Perez",
+    "email": "carlos@email.com",
+    "carnet": "EST-001",
+    "notas": {},
+    "materias": []
+  }
+]
